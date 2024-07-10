@@ -1,0 +1,14 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+.fundo-imagem {
+    width: 200px;
+    height: 200px;
+    background: url(/img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* Usar background img em alguma div ou section (caixa) */
